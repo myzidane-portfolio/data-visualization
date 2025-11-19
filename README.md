@@ -36,17 +36,17 @@ This project showcases my **data visualization journey**, starting from basic pl
 
 ---
 
-## 🖥️ Streamlit Dashboard Structure
+## 🧩 Streamlit Dashboard Structure
 
 Your folder:
 
+```text
 dashboard_app/
-│── app.py # Main Streamlit app
-│── components/
-│ ├── init.py
-│ └── plotly_components.py
-│── assets/ # Images, css, etc.
-
+├── app.py                # Main Streamlit app
+├── components/
+│   ├── __init__.py
+│   └── plotly_components.py
+└── assets/               # Images, CSS, etc.
 
 The **Streamlit app** includes:
 
@@ -135,7 +135,6 @@ http://localhost:8501
 | **Contact** | mohamadyasidzidane@gmail.com |
 | **License** | MIT License |
 | **Repository** | https://github.com/myzidane-portfolio/data-visualization |
-
 ---
 
 📘 *This repository documents a complete journey through Python's visualization ecosystem — from static plots to an interactive Streamlit dashboard.*
