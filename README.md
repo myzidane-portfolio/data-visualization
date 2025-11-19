@@ -40,7 +40,6 @@ This project showcases my **data visualization journey**, starting from basic pl
 
 Your folder:
 
-```text
 dashboard_app/
 ├── app.py                # Main Streamlit app
 ├── components/
@@ -109,9 +108,7 @@ The final app (`dashboard_app/app.py`) includes:
 
 Run locally at:
 
-http://localhost:8501
-
-
+[Open Streamlit App](http://localhost:8501)
 
 ---
 
