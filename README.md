@@ -36,16 +36,18 @@ This project showcases my **data visualization journey**, starting from basic pl
 
 ---
 
-## 🧩 Streamlit Dashboard Structure
+> ## 📁 Streamlit Dashboard Structure
+>
+> Folder organization for the dashboard app:
 
-Your folder:
-
+```text
 dashboard_app/
-├── app.py                # Main Streamlit app
+├── app.py
 ├── components/
 │   ├── __init__.py
 │   └── plotly_components.py
-└── assets/               # Images, CSS, etc.
+└── assets/
+```
 
 The **Streamlit app** includes:
 
